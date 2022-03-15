@@ -7,4 +7,6 @@ if (hungry) {
 } else {
   tersty = input("are you tersty");
   print("drink water");
+  print("drink soda");
+  print("drink cola");
 }
