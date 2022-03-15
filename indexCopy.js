@@ -5,10 +5,8 @@ if (hungry) {
   print("aet sambuse");
   print("aet burger");
 } else {
-<<<<<<< HEAD
-  print("do your homework");
-=======
   tersty = input("are you tersty");
   print("drink water");
->>>>>>> tersty
+  print("drink soda");
+  print("drink cola");
 }
